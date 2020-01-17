@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Derek Sola",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "Dsola@hawaii.edu",
+    "phone": "808-840-9582",
+    "website": "https://derekasola.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,24 +17,16 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "derekasola",
+        "url": "http://github.com/derekasola"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Derek Sola",
+        "url": "http://linkedin.com/in/derek-sola-4676aa185/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
+      
     ]
   },
   "interests": [
