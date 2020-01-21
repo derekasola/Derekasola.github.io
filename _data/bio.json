@@ -89,16 +89,16 @@
   ],
   "work": [
     {
-      "Title": "OverNight Valet Supervisor",
-      "Company": "EliteParking",
+      "company": "EliteParking",
+      "position": "OverNight Valet Supervisor",
+      "website": "http://www.eliteparking.net/",
       "startDate": "2015-03-15",
       "endDate": "Present",
-      "Location": "Ritz-Carlton Waikiki Beach",
-     
+      "summary": "One of the largest parking companies in Hawaii",
       "highlights": [
         
       ]
-    }
+    },
      ],
  
   
