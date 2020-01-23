@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/googleMapsImage.png
 title: Location Alarm
-permalink: projects/Japanese Notecard
+permalink: projects/Location Alarm
 # All dates must be YYYY-MM-DD format!
 date: 2019-7-01
 labels:
