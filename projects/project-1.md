@@ -10,7 +10,7 @@ labels:
   - Andorid
   - Java
   - Alpha Vantage API
-summary: I begun developeing this app for m friend who buys and sells cryto to people in hawaii that dont have access to the exchanges. 
+summary: I begun developing this app for my friend who buys and sells cryto to people in Hawaii who dont have access to the exchanges. 
 ---
 
 <div class="ui small rounded images">
