@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nihongo1.png
+image: images/japanese (2).jpg
 title: Japanese Notecard
 permalink: projects/Japanese Notecard
 # All dates must be YYYY-MM-DD format!
