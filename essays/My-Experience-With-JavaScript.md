@@ -9,6 +9,7 @@ labels:
   - Learning
 ---
 So far Javascript seems like a powerful tool. I like that it is object based like java, but is a scripting language so you dont need a compiler. ES6 adds a lot more features to Javascript and also cleans the code up a lot. One example would be by using arrow functions which reduces the amount of code written for some functions.
+
 From: 
 ---
 hello = function() {
