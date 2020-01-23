@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript: Love it, or ate it?
+title: "JavaScript: Love it, or ate it?"
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
