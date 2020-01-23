@@ -10,6 +10,7 @@ labels:
 ---
 
 So far JavaScript seems like a powerful tool. I worked with JavaScript one time while trying to make a website several years ago. I like that it is object based like java, but is a scripting language so you don’t need a compiler. ES6 adds a lot more features to JavaScript and also cleans the code up a lot. One example would be by using arrow functions which reduces the amount of code written for some functions.
+
 Example of regular function declaration:
 ---
 ```js
@@ -17,6 +18,7 @@ var sum = function (num1, num2) {
     return num1 + num2;
 };
 ```
+
 Example of function declaration with arrow:
 ---
 ```js
