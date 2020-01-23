@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/googleMaps (2).jpg
+image: images/googlemaps (2).jpg
 title: Location Alarm
 permalink: projects/Location Alarm
 # All dates must be YYYY-MM-DD format!
