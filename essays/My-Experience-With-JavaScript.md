@@ -21,5 +21,5 @@ To:
 hello = () => "Hello World!";
 ---
 
-javascript is a lot like other languages, which makes it easy to start learning along with ES6. I believe any tool that can be used to complete a task is useful, with that being said javascript is has been used for a variety of applications and shows no signs of going away any time soon. Overall I do believe javascript is good for software engineering because it helps people create the projects or tools they need.
+Javascript is a lot like other languages, which makes it easy to start learning along with ES6. I believe any tool that can be used to complete a task is useful, with that being said javascript is has been used for a variety of applications and shows no signs of going away any time soon. Overall I do believe javascript is good for software engineering because it helps people create the projects or tools they need.
 Not only do I believe this is one of the best ways to learn coding a new language, but also algorithms, which is a very important topic in Computer Science. This is an area I want to focus heavy on doing well in to help me in the coding interview phase of looking for a job.
