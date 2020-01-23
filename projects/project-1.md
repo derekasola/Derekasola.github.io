@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/crypto pic.jfif
+image: images/bitcoin (2).jpg
 title: Crypto Calculator
 permalink: projects/Crypto calculator
 # All dates must be YYYY-MM-DD format!
