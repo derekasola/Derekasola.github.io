@@ -33,7 +33,7 @@ JavaScript is a lot like other languages, which makes it easy to start learning.
 
 Athletic Software Engineering:
 ---
-When it comes to athletic software engineering, not only do I believe this is one of the best ways to learn coding a new language, but also algorithms, which is a very important topic in Computer Science. This is an area I want to focus heavy on doing well in to help me in the coding interview phase of looking for a job.
+When it comes to athletic software engineering, not only do I believe this is one of the best ways to learn coding a new language, but also algorithms, which is a very important topic in Computer Science. I believe the preasure of having a time limit to complete a coding challange makes you want to focus more on the subject. This is an area I want to focus heavy on doing well in to help me in the coding interview phase of looking for a job. 
 
 Conclusion:
 ---
