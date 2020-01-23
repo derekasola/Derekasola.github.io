@@ -13,5 +13,5 @@ summary: A quiz app to help me study japanese.
 ---
 
 
-<img class="ui medium right floated rounded image" src="../images/jap1.jpg">
+<img class="ui medium right floated rounded image" src="../images/jap2.jpg">
 This app was begun after my last semester of japanese 101. It uses images of hiragana, katakana, and kanji to be displyed for the user to be quized on.
