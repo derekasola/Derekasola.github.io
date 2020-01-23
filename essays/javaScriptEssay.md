@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript: Love it, or ate it?"
+title: "JavaScript: Love it, or Hate it?"
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
@@ -11,13 +11,13 @@ labels:
 
 So far Javascript seems like a powerful tool. I like that it is object based like java, but is a scripting language so you dont need a compiler. ES6 adds a lot more features to Javascript and also cleans the code up a lot. One example would be by using arrow functions which reduces the amount of code written for some functions.
 
----
+
 var sum = function (num1, num2) {
     return num1 + num2;
 };
 
 
----
+
 var sum = (num1, num2) => num1 + num2;
 
 
