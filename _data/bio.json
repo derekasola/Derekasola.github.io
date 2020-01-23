@@ -6,10 +6,10 @@
     "email": "Dsola@hawaii.edu",
     "phone": "",
     "website": "https://derekasola.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -39,6 +39,7 @@
     {
       "name": "Android Development",
       "keywords": [
+        "Java"
       ]
     },
     {
@@ -64,7 +65,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "android Studio",
+        "Android Studio",
         "Git/GitHub",
         "Windows 10"
       ]
