@@ -32,7 +32,7 @@ As you can see it reduced the code to a smaller amount to be used and understood
 
 Practicality of JS:
 ---
-JavaScript is a lot like other languages, which makes it easy to start learning. I believe any tool that can be used to complete a task is useful, with that being said JavaScript is has a variety of applications and shows no signs of going away any time soon. Over-all I do believe JavaScript is good for software engineering because it helps people create the projects or tools they need without the extra step of having to compile their code. There are plenty of frameworks and documentation out on the internet to make JavaScript an easy language to pick up.
+JavaScript is a lot like other object-oriented languages, which makes it easy to start learning. I believe any tool that can be used to complete a task is useful, with that being said, JavaScript has a variety of applications and shows no signs of going away any time soon. Over-all I do believe JavaScript is good for software engineering because it helps people create the projects or tools they need without the extra step of having to compile their code. There are plenty of frameworks and documentation out on the internet to make JavaScript an easy language to pick up.
 
 
 Athletic Software Engineering:
