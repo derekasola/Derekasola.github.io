@@ -6,6 +6,7 @@ title: "JavaScript: Love it, or Hate it?"
 date: 2020-01-23
 labels:
   - JavaScript
+  - ES6
   - Learning
 ---
 
@@ -40,7 +41,7 @@ When it comes to athletic software engineering, not only do I believe this is on
 
 Conclusion:
 ---
-In conclusion, I would have to say I love JavaScript because it’s a new skill to add to my portfolio and it’s not a huge learning curve over some of the lower level languages. I have plans to make many different apps and software over the course of my career and knowing JavaScript will only make me a better software developer in the long run.
+In conclusion, I would have to say I love JavaScript because it’s a new skill to add to my portfolio and it’s not a huge learning curve compared to some of the lower level languages. I have plans to make many different apps and software over the course of my career and knowing JavaScript will be another tool in my belt to make me a better software developer in the long run.
 
 
 
