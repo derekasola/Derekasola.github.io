@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-So far JavaScript seems like a powerful tool. I've only worked with JavaScript one time while trying to make a website several years ago so it’s still fresh for me. I like that it is object based like java, but is a scripting language so you don’t need a compiler. ES6 adds a lot more features to JavaScript and also cleans the code up a bit. One example would be by using arrow functions which reduces the amount of code written for some functions.
+So far JavaScript seems like a powerful tool. I've only worked with JavaScript one time while trying to make a website several years ago so it’s still new for me. I like that it is object based like java, but is a scripting language so you don’t need a compiler. ES6 adds a lot more features to JavaScript and also cleans the code up a bit. One example would be by using arrow functions which reduces the amount of code written for some functions.
 
 Example of regular function declaration:
 ---
