@@ -34,22 +34,16 @@ Now’s the time you want to start getting the details ready for the question. T
 
 Bad Question:
 ---
-This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who doesn’t want to post the code he has written so far.
+This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who hasnet put much effort into asking their question.
 
    Header: "How to have only one person on a webpage, the others go on a waiting screen"
    ---
    This header gives little detail into how they want it done, language, or framework.
    
-
-  Body:
-  ---
-  If that person has even written anything, they expect the readers to solve his problem for him without knowing what he has even tried. he even goes on in the comments to say 
+  If that person has even written any code, they expect the readers to solve his problem for him without knowing what he has even tried. he even goes on in the comments to say 
    
   "I decided not to post my code because I’m almost sure I am not getting anywhere with it. I just ask for new solutions I don't know, or examples ppl have in mind ;)" 
    
-   
-  The post contains vague descriptions of what the person wants and doesn’t help anyone learn anything.
- 
 Good Question:
 ---
 This [LINK](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-particular-element-from-an-array-in-javascript) is an example of a good question.
