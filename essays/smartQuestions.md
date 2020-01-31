@@ -30,7 +30,7 @@ If you are a Computer Science student or thinking about taking the plung, make f
 
 Ok, so you still can't find an answer...
 ---
-Nows the time you want to start getting the details ready for the question.
+Nows the time you want to start getting the details ready for the question. The header should be helpful to the reader, it should give everything the reader needs to know about what you are trying to do and with what frameworks. The body of the question should contain your full question with source code with the trouble area clearly visable to the readers. A good tip is to Auto-Formate your code with the code editor to make it look nice and clean in stead of sloppy looking code. 
 
 Example:
 ---
