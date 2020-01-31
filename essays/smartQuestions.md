@@ -10,7 +10,7 @@ labels:
   - Learning
   - Computer Science
 ---
-Computer science can get confusing very quickly, so asking the right questions is very important as your trying to learn. What makes a question "smart"? there are many factors to smart questions, and one of the first ones starts with the person asking the question. Have you done everything in your power to finding the answer?
+Computer science can get confusing very quickly, so asking the right questions is very important as your trying to learn. What makes a question "smart"? there are many factors to smart questions, and one of the first ones starts with the person asking the question. Have you done everything in your power to finding the answer before asking? A big part of learning is struggling through something until you find a solution.
 
 1: Did you check Stack Overflow?
 ---
@@ -38,7 +38,7 @@ This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-pe
 
    Header: "How to have only one person on a webpage, the others go on a waiting screen"
    ---
-   This header gives little detail into how they want it done,
+   This header gives little detail into how they want it done, language, or framework.
    
 
   Body:
