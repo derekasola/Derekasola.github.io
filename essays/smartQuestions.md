@@ -34,7 +34,16 @@ Nows the time you want to start getting the details ready for the question. The 
 
 Bad Question:
 ---
-This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who dosnt want to post the code he has writen so far, if they have even writen anything, and expects the readers to solve his problem for him without knowing how to even start. The post contains vauge descriptions of what the person wants and dosnt help anyone learn anything.
+This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who dosnt want to post the code he has writen so far.
+
+  Body:
+  ---
+  If that person has even writen anything, they expect the readers to solve his problem for him without knowing what he has even tried. he even goes on in the comments to say 
+   
+  "I decided not to post my code because i'm almost sure I am not getting anywhere with it. I just ask for new solutions i don't know, or examples ppl have in mind ;)" 
+   
+   
+  The post contains vauge descriptions of what the person wants and dosnt help anyone learn anything.
  
 Good Question:
 ---
@@ -46,23 +55,18 @@ This [LINK](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-partic
    
    Body:
    ---
-   The body of this persons question cotains further details of the issue and some examples of what method they are using and what they want to have done. 
-   ```
+   The body of this persons question cotains further details of the issue and some examples of what method they are using and what they  want to have done. 
+   
    "I have an array of numbers, and I'm using the .push() method to add elements to it.
 
 Is there a simple way to remove a specific element from an array? The equivalent of something like array.remove(number);.
 
 I have to use core JavaScript - frameworks are not allowed."
-```
+
    
-Example:
----
-```
-
-```
 
 
 
-Conclusion:
----
+
+
 
