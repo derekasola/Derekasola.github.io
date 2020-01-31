@@ -30,11 +30,34 @@ If you are a Computer Science student or thinking about taking the plung, make f
 
 Ok, so you still can't find an answer...
 ---
-Nows the time you want to start getting the details ready for the question. The header should be helpful to the reader, it should give everything the reader needs to know about what you are trying to do and with what frameworks. The body of the question should contain your full question with source code with the trouble area clearly visable to the readers. A good tip is to Auto-Formate your code with the code editor to make it look nice and clean in stead of sloppy looking code. 
+Nows the time you want to start getting the details ready for the question. The header should be helpful to the reader, it should give everything the reader needs to know about what you are trying to do and with what language and frameworks. The body of the question should contain your full question with source code with the trouble area clearly visable to the readers. A good tip is to Auto-Formate your code with the code editor to make it look nice and clean in stead of sloppy looking code. Like i stated in #3 above, comment your code so you know where everything is and the reader can easily see your design patern and help you solve your particular problem.
 
+Bad Question:
+---
+This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who dosnt want to post the code he has writen so far, if they have even writen anything, and expects the readers to solve his problem for him without knowing how to even start. The post contains vauge descriptions of what the person wants and dosnt help anyone learn anything.
+ 
+Good Question:
+---
+This [LINK](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-particular-element-from-an-array-in-javascript) is an example of a good question.
+
+   Header: "How do I remove a particular element from an array in JavaScript?"
+   ---
+   This persons header is direct and gives the reader a good idea what the rest of the question is going to be about.
+   
+   Body:
+   ---
+   The body of this persons question cotains further details of the issue and some examples of what method they are using and what they want to have done. 
+   ```
+   "I have an array of numbers, and I'm using the .push() method to add elements to it.
+
+Is there a simple way to remove a specific element from an array? The equivalent of something like array.remove(number);.
+
+I have to use core JavaScript - frameworks are not allowed."
+```
+   
 Example:
 ---
-```js
+```
 
 ```
 
