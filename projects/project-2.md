@@ -9,7 +9,7 @@ date: 2019-10-15
 labels:
   - Android
   - java
-summary: A quiz app to help me study japanese.
+summary: A quiz app to help me study japanesea.
 ---
 
 
