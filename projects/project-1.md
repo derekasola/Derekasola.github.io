@@ -22,49 +22,46 @@ Grabbing data from
 
 ```java
 @Override
-            public void onClick(View v) {
-                final String cryptoType1 = cryptoType.getSelectedItem().toString();
-                final String currencyType1 = currencyType.getSelectedItem().toString();
-                final String URL = ("https://www.alphavantage.co" +
-                        "/query?function=CURRENCY_EXCHANGE_RATE" +
-                        "&from_currency=" + cryptoType1 +
-                        "&to_currency=" + currencyType1 + "&apikey=4YYBRNYMR141GDIL");
-                String results = "";
+public void onClick(View v) {
+ final String cryptoType1 = cryptoType.getSelectedItem().toString();
+ final String currencyType1 = currencyType.getSelectedItem().toString();
+ final String URL = ("https://www.alphavantage.co" +
+      "/query?function=CURRENCY_EXCHANGE_RATE" +
+       "&from_currency=" + cryptoType1 +
+        "&to_currency=" + currencyType1 + "&apikey=4YYBRNYMR141GDIL");
+     String results = "";
                 
-                fetchData getData = new fetchData();
+     fetchData getData = new fetchData();           
+      try {
+          results = getData.execute(URL).get();
+     
+      } catch (ExecutionException e) {
+          e.printStackTrace();
+      } catch (InterruptedException e) {
+           e.printStackTrace();
+              }
                 
-                try {
-                    results = getData.execute(URL).get();
-                    
-                    
-                } catch (ExecutionException e) {
-                    e.printStackTrace();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
+         crypto.setText(results);
+          Double currencyTotal = 0.00;
+                
+       if((cryptoAmount.getText().toString().length() > 0
+               && dollarAmount.getText().toString().length() > 0)
+               || (cryptoAmount.getText().toString().length() == 0
+               && dollarAmount.getText().toString().length() == 0)) {
+       Toast.makeText(MainActivity.this, "Use One Input", Toast.LENGTH_SHORT).show();
                 }
                 
-                
-                crypto.setText(results);
-                Double currencyTotal = 0.00;
-                
-                if((cryptoAmount.getText().toString().length() > 0
-                        && dollarAmount.getText().toString().length() > 0)
-                        || (cryptoAmount.getText().toString().length() == 0
-                        && dollarAmount.getText().toString().length() == 0)) {
-                    Toast.makeText(MainActivity.this, "Use One Input", Toast.LENGTH_SHORT).show();
-                }
-                
-                else if(cryptoAmount.getText().toString().length() > 0) {
-                    dollarAmount.setText("");
-                    currencyTotal = Double.parseDouble(results) * Double.parseDouble(cryptoAmount.getText().toString());
+       else if(cryptoAmount.getText().toString().length() > 0) {
+             dollarAmount.setText("");
+             currencyTotal = Double.parseDouble(results) * Double.parseDouble(cryptoAmount.getText().toString());
                 }
 
-                else if(dollarAmount.getText().toString().length() > 0) {
-                    cryptoAmount.setText("");
-                    currencyTotal = Double.parseDouble(dollarAmount.getText().toString()) / Double.parseDouble(results);
+       else if(dollarAmount.getText().toString().length() > 0) {
+             cryptoAmount.setText("");
+             currencyTotal = Double.parseDouble(dollarAmount.getText().toString()) / Double.parseDouble(results);
                 }
                 
-                total.setText(currencyTotal.toString());
+           total.setText(currencyTotal.toString());
                 
                 
             }
