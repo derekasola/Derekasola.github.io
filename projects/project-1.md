@@ -13,7 +13,7 @@ labels:
 summary: I begun developing this app for my friend who buys and sells cryto to people in Hawaii who dont have access to the exchanges. 
 ---
 
- <img class="" src="../images/cryptoPic1.jpg">
+ <img class="ui medium right floated rounded image" src="../images/cryptoPic1.jpg">
 
 
 Crypto calculator gets data from an API called Alpha Vantage. This API has data for crypto as well as stocks. I manualy grabbed the data from the API and then use text fields and buttons to display the data and do conversions. An update to this app will implement json parsing to get the data. It uses a variety of currency types as well as crypto types that are availible through the API.
