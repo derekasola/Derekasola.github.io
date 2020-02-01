@@ -13,7 +13,7 @@ labels:
 summary: I begun developing this app for my friend who buys and sells cryto to people in Hawaii who dont have access to the exchanges. 
 ---
 
-<div class="ui small rounded images">
+<img class="ui medium right floated rounded image" div class="ui small rounded images" />
   
 </div>
 <src="../images/cryptoPic1.jpg">
