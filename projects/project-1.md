@@ -12,7 +12,7 @@ labels:
   - Alpha Vantage API
 summary: I begun developing this app for my friend who buys and sells cryto to people in Hawaii who dont have access to the exchanges. 
 ---
-<img class="ui medium right floated rounded image" src="../images/cryptoPic1.jpg">
+<img class="ui medium right floated rounded image" src="../images/cryptoPic1.jpg" width="200" height="400"/>
 
   
 </div>
