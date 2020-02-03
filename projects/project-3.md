@@ -10,7 +10,7 @@ labels:
   - Android
   - Java
   - Google Maps API
-summary: An alarm app to wake me up when i take long bus rides.
+summary: An alarm app to wake me up when I take long bus rides.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/prox1.jpg">
