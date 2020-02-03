@@ -21,7 +21,7 @@ Crypto calculator gets data from an API called Alpha Vantage. This API has data 
 Grabbing data from API:
 ---
 
-```java
+```Java
 @Override
 public void onClick(View v) {
  final String cryptoType1 = cryptoType.getSelectedItem().toString();
