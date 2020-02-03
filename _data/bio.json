@@ -25,15 +25,15 @@
         "username": "Derek Sola",
         "url": "http://linkedin.com/in/derek-sola-4676aa185/"
       },
-      
-      
+
+
     ]
   },
   "interests": [
     {
       "name": "Computer Science",
       "keywords": [
-        
+
       ]
     },
     {
@@ -58,7 +58,7 @@
         "C++",
         "Java",
         "Javascript"
-        
+
       ]
     },
     {
@@ -73,14 +73,14 @@
   ],
   "education": [
     {
-       "institution": "Leeward Community College, Peral City, HI",
+      "institution": "Leeward Community College, Peral City, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2016-01-14",
       "endDate": "2019-01-14",
     },
     {
-     
+
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
@@ -99,10 +99,21 @@
       "highlights": [
         "Current Location : Ritz-Carlton Waikiki Beach"
       ]
+    }, {
+      "company": "Safeway",
+      "position": "OverNight Stock Clerk/cashier",
+      "website": "http://www.eliteparking.net/",
+      "startDate": "2010-01-04",
+      "endDate": "2014-04-01",
+      "summary": "Started as a bag boy at 16, then stock clerk and cashier,
+       then ended as OverNight stock clerk/cashier. ",
+      "highlights": [
+        "Locaion: Kapolei"
+      ]
     },
      ],
- 
-  
+
+
   "references": [
     {
       "name": "Available upon request",
