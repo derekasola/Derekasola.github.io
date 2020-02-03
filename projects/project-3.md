@@ -5,7 +5,7 @@ image: images/googlemaps (2).jpg
 title: Location Alarm
 permalink: projects/Location Alarm
 # All dates must be YYYY-MM-DD format!
-date: 2019-7-01
+date: 2019-07-01
 labels:
   - Android
   - Java
