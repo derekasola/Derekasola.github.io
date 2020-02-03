@@ -18,7 +18,7 @@ A lot of people will simply post a question about something so common, that they
 
 2: Did you Google it?
 ---
-If Stack Overflow fails you, try Google. Google not only can find questions from other forums then Stack Overflow, it can find web-pages made by other computer science enthusiasts. A majority of the time, i get my question solved by these first 2 strategies.
+If Stack Overflow fails you, try Google. Google not only can find questions from other forums then Stack Overflow, it can find web-pages made by other computer science enthusiasts. A majority of the time, I get my question solved by these first 2 strategies.
 
 3: Did you check source code/documentation?
 ---
@@ -30,20 +30,20 @@ If you are a Computer Science student or thinking about taking the plunge, make 
 
 Ok, so you still can't find an answer...
 ---
-Now’s the time you want to start getting the details ready for the question. The header should be helpful to the reader, it should give everything the reader needs to know about what you are trying to do and with what language and frameworks. The body of the question should contain your full question with source code with the trouble area clearly visible to the readers. A good tip is to Auto-Format your code with the code editor to make it look nice and clean instead of sloppy looking code. Like i stated in #3 above, comment your code so you know where everything is and the reader can easily see your design pattern and help you solve your particular problem.
+Now’s the time you want to start getting the details ready for the question. The header should be helpful to the reader, it should give everything the reader needs to know about what you are trying to do and with what language and frameworks. The body of the question should contain your full question with source code with the trouble area clearly visible to the readers. A good tip is to Auto-Format your code with the code editor to make it look nice and clean instead of sloppy looking code. Like I stated in #3 above, comment your code so you know where everything is and the reader can easily see your design pattern and help you solve your particular problem.
 
 Bad Question:
 ---
-This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who hasnet put much effort into asking their question.
+This [LINK](https://stackoverflow.com/questions/59997089/how-to-have-only-one-person-on-a-webpage-the-others-go-on-a-waiting-screen) brings you to a great example of someone who has not put much effort into asking their question.
 
    Header: "How to have only one person on a webpage, the others go on a waiting screen"
    ---
    This header gives little detail into how they want it done, language, or framework.
-   
-  If that person has even written any code, they expect the readers to solve his problem for him without knowing what he has even tried. he even goes on in the comments to say 
-   
-  "I decided not to post my code because I’m almost sure I am not getting anywhere with it. I just ask for new solutions I don't know, or examples ppl have in mind ;)" 
-   
+
+  If that person has even written any code, they expect the readers to solve his problem for him without knowing what he has even tried. he even goes on in the comments to say
+
+  "I decided not to post my code because I’m almost sure I am not getting anywhere with it. I just ask for new solutions I don't know, or examples ppl have in mind ;)"
+
 Good Question:
 ---
 This [LINK](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-particular-element-from-an-array-in-javascript) is an example of a good question.
@@ -51,21 +51,13 @@ This [LINK](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-partic
    Header: "How do I remove a particular element from an array in JavaScript?"
    ---
    This person’s header is direct and gives the reader a good idea what the rest of the question is going to be about.
-   
+
    Body:
    ---
-   The body of this person’s question contains further details of the issue and some examples of what method they are using and what they want to have done. 
-   
+   The body of this person’s question contains further details of the issue and some examples of what method they are using and what they want to have done.
+
    "I have an array of numbers, and I'm using the .push() method to add elements to it.
 
 Is there a simple way to remove a specific element from an array? The equivalent of something like array.remove(number);.
 
 I have to use core JavaScript - frameworks are not allowed."
-
-   
-
-
-
-
-
-
