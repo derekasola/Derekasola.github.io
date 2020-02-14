@@ -43,7 +43,6 @@ function numEvenNums(array) {
     }
   }
   return total;
-
 }
 ```
 This is the same code written with ESLint enabled. The code is much more readable and there are no unnecessary lines, spaces, or variables anywhere in the code. besides the lack of comments above the function, this is efficient clean code.
