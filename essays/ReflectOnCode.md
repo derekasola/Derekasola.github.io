@@ -9,7 +9,7 @@ labels:
   - ES6
   - Learning
 ---
-  ESLint is an open source JavaScript linting tool made to help JavaScript programmer's write clean code that adheres to some strict coding standards. For the past week we have been using ESLint in IntelliJ to check our code for errors. This tool has been helpful in making the code we write look presentable to whoever might want to read it. Having real time error reporting With ESLint has helped me improve my code overall because I can immediately see that I have messy code by professional standards and can take action in changing my bad habits.
+  ESLint is an open source JavaScript linting tool made to help JavaScript programmers write clean code that adheres to some strict coding standards. For the past week we have been using ESLint in IntelliJ to check our code for errors. This tool has been helpful in making the code we write look presentable to whoever might want to read it. Having real time error reporting With ESLint has helped me improve my code overall because I can immediately see that I have messy code by professional standards and can take action in changing my bad habits.
 
 
 Example of messy code:
