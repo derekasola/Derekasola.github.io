@@ -9,7 +9,7 @@ labels:
   - ES6
   - Learning
 ---
-
+  For the past week we have been using ESLint in IntelliJ to check our code for errors. This tool has been helpful in making the code we write look presentable to whoever might want to read it.
 
 
 Example of regular function declaration:
