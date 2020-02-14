@@ -45,8 +45,8 @@ function numEvenNums(array) {
   return total;
 }
 ```
-This is the same code written with ESLint enabled. The code is much more readable and there are no unnecessary lines, spaces, or variables anywhere in the code. besides the lack of comments above the function, this is efficient clean code.
+This is the same code written with ESLint enabled. The code is much more readable, especially if the for loop area, and there are no unnecessary lines, spaces, or variables anywhere in the code. besides the lack of comments above the function, this is efficient clean code.
 
 Conclusion:
 ---
-I believe ESLint is a very effective tool for JavaScript beginners because it starts you off learning the correct way to do things by the standards of the industry professionals
+I believe ESLint is a very effective tool for JavaScript beginners because it starts you off learning the correct way to do things by the standards of the industry professionals. The one thing I don't like about ESLint is that the red underlines doesn't always mean that the error will crash the program. This get annoying when you see a bunch of red lines and think you wrote something wrong. ESLint is one of the tools I plan on adding to my belt and using when working on my own JavaScript projects and I will recommend it to any new JavaScript coders I meet unless I find something I like more.
