@@ -52,7 +52,7 @@ Example of Semantic ui code:
 </div>
 
 ```
-<img class="ui giant center floated image" src="../images/semanticuitopbar.png">
+<img class="ui massive center floated image" src="../images/semanticuitopbar.png">
 
 
 Conclusion:
