@@ -12,7 +12,7 @@ labels:
   - Semantic ui
 ---
 
-Near the beginning of the month, my ICS314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise.
+Near the beginning of the month, my ICS 314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise.
 
 Example of code:
 ---
@@ -54,6 +54,9 @@ Example of Semantic ui code:
 ```
 <img class="ui massive image" src="../images/semantictitlebar.png">
 
+This image shows a top black bar with the same for elements as above, but as a cleaner top bar with color and each evenly spaced.
 
 Conclusion:
 ---
+
+Semantic ui has proven to be useful when needing a quick ui set up without having to spend all the time moving things around the page with css.
