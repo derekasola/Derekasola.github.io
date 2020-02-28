@@ -54,7 +54,7 @@ Example of Semantic ui code:
 ```
 <img class="ui massive image" src="../images/semantictitlebar.png">
 
-This image shows a top black bar with the same for elements as above, but as a cleaner top bar with color and each evenly spaced.
+This image shows a top black bar with the same four elements as above, but as a cleaner top bar with color and each evenly spaced.
 
 Conclusion:
 ---
