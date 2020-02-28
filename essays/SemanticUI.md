@@ -31,7 +31,7 @@ Example of code:
     Chrome</a></li>
 </ul>
 ```
-As you can see, this code is straight to the point with no semantic ui. Below is the example of what it loos like on the top part of the screen.
+As you can see, this code is straight to the point with no semantic ui. Below is the example of what it loos like on the top part of the screen. <br>
 
 <img class="ui large center floated image" src="../images/regularhtmlcss.png">
 
