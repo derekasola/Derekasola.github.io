@@ -31,7 +31,7 @@ Example of code:
     Chrome</a></li>
 </ul>
 ```
-As you can see, this code is straight to the point with no semantic ui. Below is the example of what it loos like on the top part of the screen.
+As you can see, this code is straight to the point with no semantic ui. Below is the example of what it looks like on the top part of the screen.
 
 <img class="ui large image" src="../images/browserhistoryphoto.png">
 
@@ -43,7 +43,7 @@ Example of Semantic ui code:
 
 ```html
 
-<h1><a name ="title">  A history of browsers</a></h1>
+<h1><a name ="title"> A history of browsers</a></h1>
 <div class="ui fixed top inverted four item menu">
     <a class="item" href="https://docs.google.com/document/d/14qTjKdnAviPcuFimbtG37Fm42NmgrkSpW9dHoV5VK1o/edit">Introduction</a>
     <a class="item" href="https://docs.google.com/document/d/1vRdcV1x-PemcMv3XRickuyeuRjXHkMxgRBBYqYBNcdA/edit">A Brief history of IE</a>
@@ -59,4 +59,4 @@ This image shows a top black bar with the same for elements as above, but as a c
 Conclusion:
 ---
 
-Semantic ui has proven to be useful when needing a quick ui set up without having to spend all the time moving things around the page with css.
+Semantic ui has proven to be useful when needing a quick ui set up without having to spend all the time moving things around the page with css. Having the auto css makes it very convenient. My favorite part of semantic is all the icons they allow you to use. I will be looking forward to using semantic in the future on my own projects.
