@@ -12,7 +12,7 @@ labels:
   - Semantic ui
 ---
 
-Near the beginning of the month, my ICS 314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise.
+Near the beginning of the month, my ICS 314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise. I believe it’s always good to learn from the ground up, so I'm glad we started with basic raw webpage design so we can appreciate these tools more.
 
 Example of code:
 ---
@@ -31,7 +31,7 @@ Example of code:
     Chrome</a></li>
 </ul>
 ```
-As you can see, this code is straight to the point with no semantic ui. Below is the example of what it looks like on the top part of the screen.
+As you can see, this code is straight to the point with no semantic ui. Below is the example of what it looks like on the top part of the screen. The list is pretty plan looking and doesn't look modern.
 
 <img class="ui large image" src="../images/browserhistoryphoto.png">
 
@@ -54,7 +54,7 @@ Example of Semantic ui code:
 ```
 <img class="ui massive image" src="../images/semantictitlebar.png">
 
-This image shows a top black bar with the same four elements as above, but as a cleaner top bar with color and each evenly spaced.
+This image shows a top black bar with the same four elements as above, but as a cleaner top bar with color and each evenly spaced. I Did this by calling the semantic command in the 'class' section of the <div> tag.
 
 Conclusion:
 ---
