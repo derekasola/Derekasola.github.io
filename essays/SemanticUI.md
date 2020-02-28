@@ -35,7 +35,7 @@ As you can see, this code is straight to the point with no semantic ui. Below is
 
 <img class="ui large center floated image" src="../images/regularhtmlcss.png">
 
-Coding without a framework to guide me is definitely a very tedious process. Getting the page styled correctly required a lot of tweaking to the stylesheet.
+Coding without a framework to guide me is definitely a very tedious process. Getting the page styled correctly required a lot of tweaking to the stylesheet.<br/>
 
 
 Example of Semantic ui code:
