@@ -14,6 +14,8 @@ labels:
 
 Near the beginning of the month, my ICS 314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise. I believe it’s always good to learn from the ground up, so I'm glad we started with basic raw webpage design so we can appreciate these tools more. Now at the end of the month we have learn a framework called   [Semantic ui.](https://semantic-ui.com/introduction/getting-started.html)   This framework was made to make designing webpages easy and to make them look presentable.
 
+<a href="https://docs.google.com/document/d/14qTjKdnAviPcuFimbtG37Fm42NmgrkSpW9dHoV5VK1o/edit">Introduction</a>
+
 Example of code:
 ---
 
