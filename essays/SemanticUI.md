@@ -31,9 +31,9 @@ Example of code:
     Chrome</a></li>
 </ul>
 ```
-As you can see, this code is straight to the point with no semantic ui. Below is the example of what it loos like on the top part of the screen.<br/>
+As you can see, this code is straight to the point with no semantic ui. Below is the example of what it loos like on the top part of the screen.
 
-<img class="ui large center floated image" src="../images/regularhtmlcss.png"><br/>
+<img class="ui large center floated image" src="../images/regularhtmlcss.png">
 
 Coding without a framework to guide me is definitely a very tedious process. Getting the page styled correctly required a lot of tweaking to the stylesheet.
 
