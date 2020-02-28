@@ -7,12 +7,12 @@ date: 2020-02-27
 labels:
   - HTML
   - CSS
-- Learning
-- InteliJ IDEA
-- Semantic ui
+  - Learning
+  - InteliJ IDEA
+  - Semantic ui
 ---
 
-Near the beginning of the month, we started using html and css to make shells of webpages. These mock-ups have been very basic, especially before semantic ui. They only included basic <p> (paragraph), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. 
+Near the beginning of the month, we started using html and css to make shells of webpages. These mock-ups have been very basic, especially before semantic ui. They only included basic <p> (paragraph), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen.
 
 Example of messy code:
 ---
