@@ -33,9 +33,9 @@ Example of code:
 ```
 As you can see, this code is straight to the point with no semantic ui. Below is the example of what it loos like on the top part of the screen.
 
-<img class="ui large center floated image" src="../images/regularhtmlcss.png">
+<img class="ui large center floated image" src="../images/browserhistoryphoto.png">
 
-Coding without a framework to guide me is definitely a very tedious process. Getting the page styled correctly required a lot of tweaking to the stylesheet.<br/>
+Coding without a framework to guide me is definitely a very tedious process. Getting the page styled correctly required a lot of tweaking to the stylesheet.
 
 
 Example of Semantic ui code:
