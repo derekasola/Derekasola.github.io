@@ -12,7 +12,7 @@ labels:
   - Semantic ui
 ---
 
-Near the beginning of the month, my ICS 314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise. I believe it’s always good to learn from the ground up, so I'm glad we started with basic raw webpage design so we can appreciate these tools more. Now at the end of the month we have learn a framework called [Semantic ui](https://semantic-ui.com/introduction/getting-started.html) . This framework was made to make designing webpages easy and to make them look presentable.
+Near the beginning of the month, my ICS 314 class started using html and css to make shells of webpages. These mock-ups have been very basic. They only included basic <p> (paragraph), <h> (Header), <ul> (Unordered list), and <div> (Division) to position our text and pictures across the webpage with css to position the text areas around the screen. coding this way took a while but was very precise. I believe it’s always good to learn from the ground up, so I'm glad we started with basic raw webpage design so we can appreciate these tools more. Now at the end of the month we have learn a framework called  . This framework was made to make designing webpages easy and to make them look presentable.
 
 Example of code:
 ---
@@ -60,3 +60,6 @@ Conclusion:
 ---
 
 Semantic ui has proven to be useful when needing a quick ui set up without having to spend all the time moving things around the page with css. Having the auto css makes it very convenient. My favorite part of semantic is all the icons they allow you to use. I will be looking forward to using semantic in the future on my own projects.
+
+
+[Semantic ui](https://semantic-ui.com/introduction/getting-started.html)
