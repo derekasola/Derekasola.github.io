@@ -18,7 +18,7 @@ Not much has changed for me from day to day. These days I’m mostly a stay at h
  
 
 Community Obligations:
- ---
+---
  My job shut down temporarily because its tourist driven but my company was able to relocate me to one of the medical centers helping screen patients as they come to the ER. We have masks and gloves and we are supposed to make the patients wait in their cars with the windows up and get the nurses. So far, the nights are quiet and since working at the medical center, even though I haven’t personally delta with a patient yet, I feel good not only to still have a job but to be somewhere assisting with this epidemic. I only get 32 hours a week, but it helps and is better then unemployment.
 
 Impact on my school performance:
