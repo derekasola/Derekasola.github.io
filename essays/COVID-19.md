@@ -23,7 +23,7 @@ Community Obligations:
 
 Impact on my school performance:
 ---
-There is only one class I believe will suffer because of this stay at home order, and that is Japanese. Learning another language is hard, and Japanese is one of the harder languages to learn. Being around people that speak the language you are trying to learn will help you tremendously in learning the language. because I can’t go to school or my old job in Waikiki, I don’t interact with anyone Japanese anymore besides my online class. I was also looking at the summer trip to Kobe Japan to finish off my last to Japanese classes. 
+There is only one class I believe will suffer because of this stay at home order, and that is Japanese. Learning another language is hard, and Japanese is one of the harder languages to learn. Being around people that speak the language you are trying to learn will help you tremendously in learning the language. because I can’t go to school or my old job in Waikiki, I don’t interact with anyone Japanese anymore besides my online class. I was also looking at the summer trip to Kobe Japan to finish off my last to Japanese classes, but cant do that anymore.
 
 Conclusion:
 ---
