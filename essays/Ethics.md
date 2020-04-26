@@ -32,10 +32,10 @@ With autonomous cars, we can use a lot of the same principles when writing our p
 
 Issues With Autonomy To Address:
 ---
-Its well know by now that cars are dangerous, so know imaging writing a program that does everything a human does when driving. There are a lot of rules to adhere to. First the car needs to be able to stay on the road at all times and avoid other cars and pedestrians. This is the basic package when it comes to autonomous cars. I would say tesla is at this stage as of now because the driver of their cars still needs to be focused on the road while the car is in autonomous mode. One of the most controversial topics with autonomous vehicles is the "lesser of two evils" problem. If were about to crash and your only choices were to hit someone or turn directly into a brick wall which would you choose? Which one should the A.I choose for you? There are several different versions to this problem, but the idea is always the same, Which one is more ethical?
+Its well know by now that cars are dangerous, so know imaging writing a program that does everything a human does when driving. There are a lot of rules to adhere to. First the car needs to be able to stay on the road at all times and avoid other cars and pedestrians. This is the basic package when it comes to autonomous cars. I would say tesla is at this stage as of now because the driver of their cars still needs to be focused on the road while the car is in autonomous mode. One of the most controversial topics with autonomous vehicles is the "lesser of two evils" problem. If were about to crash and your only choices were to hit someone or turn directly into a brick wall which would you choose? Which one should the A.I choose for you? There are several different versions to this problem, but the idea is always the same, who dies when death is the only choice?
 
 
 Conclusion:
 ---
-I am a strong supporter in autonomous vehicles because i believe it can make the roads safer everyone. "The lesser of two evils" problem is an exact scenario that doesnt happen very often, but is an issue that needs a lot of attention when dealing with these types of things.
+I am a strong supporter in autonomous vehicles because i believe it can make the roads safer everyone. "The lesser of two evils" problem is an exact scenario that doesnt happen very often, but is an issue that needs a lot of attention.
 
