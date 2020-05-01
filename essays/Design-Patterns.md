@@ -21,7 +21,7 @@ I Have an Idea! Where Do I Start?
 The first thing I do when I have an idea I want to start on is draw. I bought a large whiteboard and I use it to draw out how I want the user interface to look from start to finish. I’ve always found that designing the UI first helped me get a whole lot farther, quicker because I already basically have a template to work from. I also believe drawing can be a good way of communicating your ideas to your colleagues because after you draw your idea, you can send a picture to them to review. A whiteboard definitely isn't necessary especially with tablets, but I feel more immersed into the idea using a whiteboard. 
 
  
- Which Platform/OS Should I Develop For?
+ Which Platform / OS Should I Develop For?
  ---
  
  As a beginner programmer, I believe its best to stick to the platforms and operating systems you know and work with daily. When I wanted to take the leap from "hello world" programs to goal driven development, I jumped straight into Android because I have always used android phones and learned that with [Android Studio](https://developer.android.com/studio), I can plug my phone in and download my app and play with them. Having my creations on my phone where I can show my friends easily, really motivated me to keep trying to make them better.
