@@ -29,7 +29,7 @@ The first thing I do when I have an idea I want to start on is draw. I bought a 
 Code Design:
 ---
 
-After you found out what platform to develop for and what development environment is best for you need to start thinking about how you want to approach them problem. For simpler apps, there isn't much thought that needs to go into to them to get them running, but when it comes to larger software, this is the part when you really have to take a step back and plan your approach if you don’t want to get stuck over and over again like I have done in the past. Luckily, the guys who develop the code you use to write your programs, develop them in such a way to favor particular patterns that when understood, can help guide you to your end goal. There are three main [patterns](https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_Type) to remember when writing with object orientated languages, and those are Creational, structural, and behavioral. 
+After you found out what platform to develop for and what development environment is best for you need to start thinking about how you want to approach them problem. For simpler apps, there isn't much thought that needs to go into to them to get them running, but when it comes to larger software, this is the part when you really have to take a step back and plan your approach if you don’t want to get stuck over and over again like I have done in the past. Luckily, the guys who develop the code you use to write your programs, develop them in such a way to favor particular patterns that when understood, can help guide you to your end goal. There are three main [patterns](https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_Type) to remember when writing with object orientated languages, and those are creational, structural, and behavioral. 
 
 #### Creational
 Creational patterns deal with the creation of objects to make sure that they are dealt with in the most efficient way. For example, the Singleton pattern ensures that only one instance of that object is created. Think the president of the United States.
@@ -44,6 +44,5 @@ Behavioral patterns dictate the ways objects communicate and limit or expand the
 
 Conclusion:
 ---
-Design patterns serve as a guide to producing clean, efficient, and adaptable code that can take you from a messy code to an organized pro with a little research and practice.
-
+Design patterns serve as a guide to producing clean, efficient, and adaptable code that can take you from a messy code to an organized pro with a little research and practice. without proper design, most of your projects will most likely fail and leave you discouraged.
 
