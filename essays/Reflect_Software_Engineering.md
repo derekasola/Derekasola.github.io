@@ -13,7 +13,7 @@ labels:
 Over-View:
 ---
 
-This semester was interesting to say the least. COVID-19 caused a large disruption on everyones lives and forced everyone online. As i dont see it as too much of an issue with this software engineering class, it did cause some turbulance in 2 of my other classes. That beeing said, this is my experiences with sofware engineering this semester.
+This semester was interesting to say the least. COVID-19 caused a large disruption on everyone’s lives and forced everyone online. As I don’t see it as too much of an issue with this software engineering class, it did cause some turbulence in 2 of my other classes. That being said, this is my experiences with software engineering this semester.
     
 W.O.D
 ---
@@ -28,16 +28,17 @@ For this class we used Github to submit our assignments and eventually even star
 
 Coding Standards:
 ---
-Coding standards refer to the "rules" developers put on themselves to provide quality, reusable code that everyone can understand. Through out the class, we learned about the coding standards tool for web development called ESLint. ESLint is a tool used by web Developers to help them organize their code to industry level standards. this tool would also provide suggestions on fixes that could be made. Overall it was a very helpful tool and will benefit me in the future with some of the projects i want to work on.
+Coding standards refer to the "rules" developers put on themselves to provide quality, reusable code that everyone can understand. Throughout the class, we learned about the coding standards tool for web development called ESLint. ESLint is a tool used by web Developers to help them organize their code to industry level standards. this tool would also provide suggestions on fixes that could be made. Overall it was a very helpful tool and will benefit me in the future with some of the projects I want to work on.
 
 
 Ethical Programming:
 ---
 
-Ethical programming are also "rules" that provide direction for a developer, but in this case its more for producing useful code that also is legal and causes no harm to others. Think of black hat hackers (hackers that violates computer security for personal gain or maliciousness intent) There is nothing ethical about stealing peoples information or causing disruptions in peoples lives. For our final project, one of our goals was transparency with the drivers and the riders. The idea was, if everyone knows who is driving and riding, it creates a safer environment for the everyone.
+Ethical programming are also "rules" that provide direction for a developer, but in this case its more for producing useful code that also is legal and causes no harm to others. Think of black hat hackers (hackers that violates computer security for personal gain or maliciousness intent) There is nothing ethical about stealing people’s information or causing disruptions in people’s lives. For our final project, one of our goals was transparency with the drivers and the riders. The idea was, if everyone knows who is driving and riding, it creates a safer environment for the everyone.
 
 Conclusion:
 ---
 
-By far one of my favorite classes i have taken in computer science to date. That being said i will be strongly continuing my degree so one day i can be working for a company developing the next big thing.
+By far one of my favorite classes I have taken in computer science to date. That being said i will be strongly continuing my degree so one day I can be working for a company developing the next big thing.
+
 
