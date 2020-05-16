@@ -45,8 +45,8 @@ export default class SimpleMap extends Component{
 }
 ```
 
-
+for more details on our project and to download a template to run, please visit our [Bowride Organization](https://github.com/bowride) page.
  
 
 
-[Bowride Organization](https://github.com/bowride) 
+
