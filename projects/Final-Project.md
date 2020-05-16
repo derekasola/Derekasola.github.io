@@ -43,7 +43,7 @@ export default class SimpleMap extends Component{
 ```
 
 
- <img class="ui medium right floated rounded image" src="../images/cryptoPic1.jpg">
+ <img class="ui medium right floated rounded image" src="../images/Final-Maps.png">
 
 
 [Bowride Organization](https://github.com/bowride) 
