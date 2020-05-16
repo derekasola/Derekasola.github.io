@@ -16,7 +16,7 @@ summary: Bowride is a ride sharing app for UH students made by UH students!
 ---
 
 
-<img class="ui large center floated image" src="../images/Final-Maps.png">
+<img class="ui large centered image" src="../images/Final-Maps.png">
 
 #My Contribution
 
