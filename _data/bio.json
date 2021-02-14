@@ -6,13 +6,13 @@
     "email": "Dsola@hawaii.edu",
     "phone": "",
     "website": "https://derekasola.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "summary": "I am studying for a BS Computer Science through Western Governors University. My dream career is in software development",
     "location": {
       "address": "",
-      "postalCode": "96817",
-      "city": "Honolulu",
+      "postalCode": "99577",
+      "city": "Eagle River",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Alaska"
     },
     "profiles": [
       {
@@ -85,6 +85,14 @@
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2019-01-14",
+      "endDate": "2020-07-1",
+    },
+    {
+
+      "institution": "Western Governors University, Online",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2020-07-1",
       "endDate": "Present",
     }
   ],
@@ -94,10 +102,10 @@
       "position": "OverNight Valet Supervisor",
       "website": "http://www.eliteparking.net/",
       "startDate": "2015-03-15",
-      "endDate": "Present",
-      "summary": "",
+      "endDate": "2020-9-01",
+      "summary": "Overnight Valet Supervisor",
       "highlights": [
-        "Current Location : Ritz-Carlton Waikiki Beach"
+        "Last Location : Ritz-Carlton Waikiki Beach"
       ]
     }, {
       "company": "Safeway",
